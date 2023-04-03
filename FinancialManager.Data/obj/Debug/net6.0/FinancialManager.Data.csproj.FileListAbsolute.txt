@@ -1,0 +1,15 @@
+C:\Users\Boyan Pironkov\source\repos\FinancialManager\FinancialManager.Data\obj\Debug\net6.0\FinancialManager.Data.csproj.AssemblyReference.cache
+C:\Users\Boyan Pironkov\source\repos\FinancialManager\FinancialManager.Data\obj\Debug\net6.0\FinancialManager.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boyan Pironkov\source\repos\FinancialManager\FinancialManager.Data\obj\Debug\net6.0\FinancialManager.Data.AssemblyInfoInputs.cache
+C:\Users\Boyan Pironkov\source\repos\FinancialManager\FinancialManager.Data\obj\Debug\net6.0\FinancialManager.Data.AssemblyInfo.cs
+C:\Users\Boyan Pironkov\source\repos\FinancialManager\FinancialManager.Data\obj\Debug\net6.0\FinancialManager.Data.csproj.CoreCompileInputs.cache
+C:\Users\Boyan Pironkov\source\repos\FinancialManager\FinancialManager.Data\bin\Debug\net6.0\FinancialManager.Data.deps.json
+C:\Users\Boyan Pironkov\source\repos\FinancialManager\FinancialManager.Data\bin\Debug\net6.0\FinancialManager.Data.dll
+C:\Users\Boyan Pironkov\source\repos\FinancialManager\FinancialManager.Data\bin\Debug\net6.0\FinancialManager.Data.pdb
+C:\Users\Boyan Pironkov\source\repos\FinancialManager\FinancialManager.Data\bin\Debug\net6.0\FinancialManager.Models.dll
+C:\Users\Boyan Pironkov\source\repos\FinancialManager\FinancialManager.Data\bin\Debug\net6.0\FinancialManager.Models.pdb
+C:\Users\Boyan Pironkov\source\repos\FinancialManager\FinancialManager.Data\obj\Debug\net6.0\FinancialManager.Data.csproj.CopyComplete
+C:\Users\Boyan Pironkov\source\repos\FinancialManager\FinancialManager.Data\obj\Debug\net6.0\FinancialManager.Data.dll
+C:\Users\Boyan Pironkov\source\repos\FinancialManager\FinancialManager.Data\obj\Debug\net6.0\refint\FinancialManager.Data.dll
+C:\Users\Boyan Pironkov\source\repos\FinancialManager\FinancialManager.Data\obj\Debug\net6.0\FinancialManager.Data.pdb
+C:\Users\Boyan Pironkov\source\repos\FinancialManager\FinancialManager.Data\obj\Debug\net6.0\ref\FinancialManager.Data.dll
